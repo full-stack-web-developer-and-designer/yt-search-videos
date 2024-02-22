@@ -128,6 +128,8 @@ footer {
     line-height: 52px;
     text-align: center;
 }
+.comma,
+br#none { display: none;}
 footer a {
     color: #fff;
     text-decoration: underline;
@@ -199,6 +201,17 @@ a.footer-contact{
 @media screen and (min-width:409px)and (max-width:550px) {
     #search-btn {
         right: 10px;
+    }
+}
+@media screen and (max-width:460px) {
+    .comma {
+        display: inline;
+    }
+    .none {
+        display: none;
+    }
+    br#none {
+        display: block;
     }
 }
 @media screen and (max-width:408px) {
