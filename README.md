@@ -1,0 +1,9 @@
+# YouTube Search Engine
+This is the **YouTube Search Engine** repository that contains a complete YouTube video search script.
+Search box is animated on blur and focus with jQuery.
+
+This project is done with semantic HTML5 markup, CSS styling, YouTube Data API v3, jQuery channelList() and searchList() methods, FancyBox JavaScript plugin to open videos and JavaScript functions for previous and next paging.
+
+[PREVIEW](https://full-stack-web-developer-and-designer.github.io/yt-search-videos/)
+##
+[![Mirnes Glamočić](/mockup-yt-search-videos.webp)](https://full-stack-web-developer-and-designer.github.io/yt-search-videos)
